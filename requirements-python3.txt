@@ -13,7 +13,7 @@ MarkupSafe==1.1.1
 mps-youtube==0.2.8
 pafy==0.5.4
 path-and-address==2.0.1
-Pygments==2.4.2
+Pygments==2.7.4
 PyYAML==5.1.2
 requests==2.22.0
 urllib3==1.25.6
